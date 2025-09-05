@@ -1,4 +1,4 @@
-BEGIN:VCALENDAR
+eBEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Lecture Schedule//EN
 BEGIN:VTIMEZONE
@@ -25,7 +25,7 @@ UID:1@mycalendar.edu
 DTSTAMP:20250904T204247Z
 DTSTART;TZID=America/Chicago:20250911T080000
 DTEND;TZID=America/Chicago:20250911T083000
-SUMMARY:Introduction to 602 and Course Overview (Instructor: Murphy)
+SUMMARY:INTRO to 602 and Course Overview (Instructor: Murphy)
 LOCATION:211
 DESCRIPTION:Instructor(s): Murphy
 BEGIN:VALARM
